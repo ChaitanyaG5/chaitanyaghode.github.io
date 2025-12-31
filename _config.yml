@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title : Chaitanya Ghode
+description:Detail-oriented and motivated computer science student with strong proficiency in C, Java, and Python, along with hands-on experience in NumPy and Pandas for data handling and analysis. Solid understanding of Data Structures and Algorithms and Object-Oriented Programming (OOPs) principles. Experienced in developing computer vision projects using OpenCV, applying image processing and real-time vision techniques. Passionate about problem-solving, writing efficient code, and continuously learning new technologies.
